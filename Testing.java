@@ -1,3 +1,6 @@
 public class Testing {
-    dasda
+    public static void main(String[] args) {
+        String mensaje="";
+        xcv
+    }
 }
