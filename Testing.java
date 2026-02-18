@@ -1,7 +1,6 @@
 public class Testing {
-    public static void main (String[] args ){
-    
-    int valor = 2;
-
+    public static void main(String[] args) {
+        String mensaje="";
+        int valor = 2;
     }
 }
